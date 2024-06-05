@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rijju Poudel</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
-<img align ="right" alt ="Coding" width ="400" src ="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align ="right" alt ="Coding" width ="400" src ="https://camo.githubusercontent.com/cdf463edb40f886167f1a8583a70c2bd4795228bebce2f35f8a1690b219d3887/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e67757259316f347a3038304a666f797a772f67697068792e676966">
 
 - 📫 How to reach me **rijjupoudel2059@gmail.com**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rijju Poudel</h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif">
 
 - 📫 How to reach me: **rijjupoudel2059@gmail.com**
 - ⚡ Fun fact: **Just like coding, life is full of bugs and features.**
